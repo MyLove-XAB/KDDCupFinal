@@ -56,6 +56,11 @@ export PYTHONPATH="`pwd`:$PYTHONPATH"
   ```bash
   python NCF.py --train True --valid True --test True
   ```
+- 6. If you want to run training script and test script separately, you can run the following scripts:
+  ```bash
+  python train.py
+  python modeltest.py
+  ```
   
 ### Results
 - The map result on Valiation Set is 0.3906  

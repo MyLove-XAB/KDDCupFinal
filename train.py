@@ -246,12 +246,12 @@ if __name__ == "__main__":
     # shuffle
     np.random.seed(1)           # NumPy 是 Pandas 的底层依赖库
     tokenizer = BertTokenizer.from_pretrained(model_name)
-    if args.train:
-        train_func()      # training function
-    if args.valid:
-        evaluation("valid")
-    if args.test:
-        evaluation("test")
+
+    train_func()      # training function
+    # if args.valid:
+    #     evaluation("valid")
+    # if args.test:
+    #     evaluation("test")
 
     # 打印模型的参数量
     parameters_num = count_parameters(ncf)
