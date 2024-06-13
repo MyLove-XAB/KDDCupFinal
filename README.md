@@ -66,6 +66,10 @@ export PYTHONPATH="`pwd`:$PYTHONPATH"
 - The map result on Valiation Set is 0.3906  
 - The map result on Test Set are as follows is 0.3781
 
-### Trained Model and Submission Files
-#### We save the trained model, valid and test submission files which achieve the above results. You can find it in our_result/ folder.
+### !!! Trained Model and Submission Files
+#### !!! We save the trained model, valid and test submission files which achieve the above results. You can find it in our_result/ folder.
+- You can also download our result model and submission files from 
+  - [Hugging Face] https://huggingface.co/MyloveAB/KDDPST-TeamAoboSama-our_result/tree/main
+  - [BaiduPan] https://pan.baidu.com/s/1buZ3xwoHicIWXaRev6YV8w with extract code: uouc
+  - [Google Drive] https://drive.google.com/drive/folders/1bRzp1OcKGAFeA_-XXBdFqdWXhOiA4LS_?usp=sharing
 - If you have any questions or need more details, please contact us with email: upc20xab@s.upc.edu.cn
