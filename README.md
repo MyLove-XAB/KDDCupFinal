@@ -73,3 +73,14 @@ export PYTHONPATH="`pwd`:$PYTHONPATH"
   - [BaiduPan] https://pan.baidu.com/s/1buZ3xwoHicIWXaRev6YV8w with extract code: uouc
   - [Google Drive] https://drive.google.com/drive/folders/1bRzp1OcKGAFeA_-XXBdFqdWXhOiA4LS_?usp=sharing
 - If you have any questions or need more details, please contact us with email: upc20xab@s.upc.edu.cn
+
+### References
+ If you find our work helpful, please leave us a star and cite our paper.
+```bibtex
+@article{xu2024text,
+  title={Text-Driven Neural Collaborative Filtering Model for Paper Source Tracing},
+  author={Xu, Aobo and Chang, Bingyu and Liu, Qingpeng and Jian, Ling},
+  journal={arXiv preprint arXiv:2407.17722},
+  year={2024}
+}
+```
